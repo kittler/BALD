@@ -7,6 +7,6 @@ All 666 images are of lesions on glabrous skin (mostly soles).  Patients were Eu
 
 Annotations were collected through an online reader study designed to reevaluate the BRAAFF checklist for diagnosing acral melanoma. This annotated dataset is intended to serve as a benchmark for differentiating acral melanoma from nevi supporting training and validation of machine learning models. The dataset is available on the ISIC archive with basic metadata, while extended annotations are provided here. The dataset is distributed under a CC-BY-NC license for research and teaching with citation required.
 
-Müller C, et al. The BRAAFF-Annotated Acral Lesions Dataset (BALD): A curated set of dermatoscopic images of acral melanoma and nevi from various sources, submitted
+Müller C, et al. The BRAAFF-Annotated Acral Lesions Dataset (BALD): A curated set of dermatoscopic images of acral melanoma and nevi from various sources, Journal of Investigative Dermatology, in press
 
 
