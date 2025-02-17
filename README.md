@@ -13,4 +13,6 @@ The dataset is distributed under a CC-BY-NC license for research and teaching wi
 
 Müller C, et al. The BRAAFF-Annotated Acral Lesions Dataset (BALD): A curated set of dermatoscopic images of acral melanoma and nevi from various sources, Journal of Investigative Dermatology, 2025
 
+doi = https://doi.org/10.1016/j.jid.2024.12.021
 
+url = https://www.sciencedirect.com/science/article/pii/S0022202X25000211
